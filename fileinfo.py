@@ -10,6 +10,8 @@ for i in range(n):
    x,y,k=map(int,input().split())
    lis.append([x,y,k])
    
+
+print(23333)
 for i in range(129):
     for j in range(129):
         x1=i
@@ -21,3 +23,9 @@ for i in range(129):
         lis1.append(pub)
 z=max(lis1)
 print(lis1.count(z),z)
+#
+#
+  #
+#
+#
+#
